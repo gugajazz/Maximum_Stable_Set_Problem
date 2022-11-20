@@ -1,0 +1,10 @@
+c Instancia de teste para problema 
+c IIA 2021 22
+p edge 7 7
+e 7 4
+e 2 4
+e 2 5
+e 3 4
+e 4 6
+e 6 1
+e 5 1
